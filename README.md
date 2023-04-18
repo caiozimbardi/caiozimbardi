@@ -1,4 +1,13 @@
-### Hi there 👋
+### 🏄🏼‍♂️Caio Zimbardi 
+
+**Web Developer (Full Stack)**
+
+As an experienced customer service representative, I've always had a knack for problem-solving and critical thinking. Those skills, combined with my passion for technology, led me to complete Le Wagon's coding bootcamp in Berlin and transition into web development. 
+
+I am driven by a passion for learning and innovation, and I constantly seek out new challenges to push myself to grow and excel.
+
+Throughout my bootcamp at Le Wagon, I gained hands-on experience with Ruby, Ruby on Rails, JavaScript ES6, CSS, Bootstrap, HTML and PostgreSQL, as well as a collaborative workflow using Git and GitHub until deployment with Heroku.
+
 
 <!--
 **caiozimbardi/caiozimbardi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
